@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+    background-color:black;
+    color :white;
+    opacity:70%
+  }
+  th, td {
+      width: 150px;
+    padding: 15px;
+    text-align: left;
+  }
